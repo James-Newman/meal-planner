@@ -12,11 +12,14 @@ plan meals and simplify shopping lists. Static site, no build step, deployed to 
 - 4 people: 2 adults, 2 kids.
 - Only the **evening meal** is tracked — no breakfast/lunch placeholders.
 - Weekly pattern is fixed and repeats across all 4 weeks:
-  - Monday, Tuesday, Saturday, Sunday: one family meal, everyone eats the same thing.
+  - Monday, Tuesday, Sunday: one family meal, everyone eats the same thing.
   - Wednesday: kids have a meal deal from the local shop (not a planned meal); adults eat
     a separate meal together.
   - Thursday: kids eat early (separate from adults); adults have a quick microwave meal.
-  - Friday: all 4 eat together — quick pasta.
+  - Friday: all 4 eat together — quick pasta, rotating across the 4 weeks (bacon cheese,
+    meatballs, bolognese, cheesy).
+  - Saturday: all 4 eat together — takeaway night, rotating across the 4 weeks (Chinese,
+    Curry, Chip Shop, Fancy Pizza).
 - This split (`"family"` vs `"split"` day types) is structural, not a placeholder — don't
   collapse Wednesday/Thursday into single family meals when filling in data.
 

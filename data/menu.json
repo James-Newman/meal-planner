@@ -12,7 +12,7 @@
         "wednesday": { "type": "split", "meals": { "kids": "Meal deal (shop-bought)", "adults": "" } },
         "thursday":  { "type": "split", "meals": { "kids": "Early tea", "adults": "Quick microwave meal" } },
         "friday":    { "type": "family", "meal": "Pasta Bacon Cheese" },
-        "saturday":  { "type": "family", "meal": "" },
+        "saturday":  { "type": "family", "meal": "Takeaway: Chinese" },
         "sunday":    { "type": "family", "meal": "" }
       }
     },
@@ -24,7 +24,7 @@
         "wednesday": { "type": "split", "meals": { "kids": "Meal deal (shop-bought)", "adults": "" } },
         "thursday":  { "type": "split", "meals": { "kids": "Early tea", "adults": "Quick microwave meal" } },
         "friday":    { "type": "family", "meal": "Spaghetti Meatballs" },
-        "saturday":  { "type": "family", "meal": "" },
+        "saturday":  { "type": "family", "meal": "Takeaway: Curry" },
         "sunday":    { "type": "family", "meal": "" }
       }
     },
@@ -36,7 +36,7 @@
         "wednesday": { "type": "split", "meals": { "kids": "Meal deal (shop-bought)", "adults": "" } },
         "thursday":  { "type": "split", "meals": { "kids": "Early tea", "adults": "Quick microwave meal" } },
         "friday":    { "type": "family", "meal": "Spaghetti Bolognese" },
-        "saturday":  { "type": "family", "meal": "" },
+        "saturday":  { "type": "family", "meal": "Takeaway: Chip Shop" },
         "sunday":    { "type": "family", "meal": "" }
       }
     },
@@ -48,7 +48,7 @@
         "wednesday": { "type": "split", "meals": { "kids": "Meal deal (shop-bought)", "adults": "" } },
         "thursday":  { "type": "split", "meals": { "kids": "Early tea", "adults": "Quick microwave meal" } },
         "friday":    { "type": "family", "meal": "Cheesy Pasta" },
-        "saturday":  { "type": "family", "meal": "" },
+        "saturday":  { "type": "family", "meal": "Takeaway: Fancy Pizza" },
         "sunday":    { "type": "family", "meal": "" }
       }
     }

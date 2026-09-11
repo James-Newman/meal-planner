@@ -55,6 +55,11 @@ Plain HTML/CSS/JS, no framework, no build step, no dependencies:
 Keep it dependency-free unless there's a real reason to add a framework — the whole point
 is that this is a small, low-maintenance static page.
 
+## Workflow
+
+Commit and push directly to `main`. No PRs, no feature branches — this is a solo,
+low-ceremony personal project.
+
 ## Deployment
 
 `.github/workflows/deploy-pages.yml` deploys `main` to GitHub Pages via

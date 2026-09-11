@@ -1,0 +1,56 @@
+{
+  "household": {
+    "adults": 2,
+    "kids": 2
+  },
+  "weeks": [
+    {
+      "week": 1,
+      "days": {
+        "monday":    { "type": "family", "meal": "" },
+        "tuesday":   { "type": "family", "meal": "" },
+        "wednesday": { "type": "split", "meals": { "kids": "Meal deal (shop-bought)", "adults": "" } },
+        "thursday":  { "type": "split", "meals": { "kids": "Early tea", "adults": "Quick microwave meal" } },
+        "friday":    { "type": "family", "meal": "Quick pasta" },
+        "saturday":  { "type": "family", "meal": "" },
+        "sunday":    { "type": "family", "meal": "" }
+      }
+    },
+    {
+      "week": 2,
+      "days": {
+        "monday":    { "type": "family", "meal": "" },
+        "tuesday":   { "type": "family", "meal": "" },
+        "wednesday": { "type": "split", "meals": { "kids": "Meal deal (shop-bought)", "adults": "" } },
+        "thursday":  { "type": "split", "meals": { "kids": "Early tea", "adults": "Quick microwave meal" } },
+        "friday":    { "type": "family", "meal": "Quick pasta" },
+        "saturday":  { "type": "family", "meal": "" },
+        "sunday":    { "type": "family", "meal": "" }
+      }
+    },
+    {
+      "week": 3,
+      "days": {
+        "monday":    { "type": "family", "meal": "" },
+        "tuesday":   { "type": "family", "meal": "" },
+        "wednesday": { "type": "split", "meals": { "kids": "Meal deal (shop-bought)", "adults": "" } },
+        "thursday":  { "type": "split", "meals": { "kids": "Early tea", "adults": "Quick microwave meal" } },
+        "friday":    { "type": "family", "meal": "Quick pasta" },
+        "saturday":  { "type": "family", "meal": "" },
+        "sunday":    { "type": "family", "meal": "" }
+      }
+    },
+    {
+      "week": 4,
+      "days": {
+        "monday":    { "type": "family", "meal": "" },
+        "tuesday":   { "type": "family", "meal": "" },
+        "wednesday": { "type": "split", "meals": { "kids": "Meal deal (shop-bought)", "adults": "" } },
+        "thursday":  { "type": "split", "meals": { "kids": "Early tea", "adults": "Quick microwave meal" } },
+        "friday":    { "type": "family", "meal": "Quick pasta" },
+        "saturday":  { "type": "family", "meal": "" },
+        "sunday":    { "type": "family", "meal": "" }
+      }
+    }
+  ]
+}

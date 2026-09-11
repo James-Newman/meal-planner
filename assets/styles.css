@@ -1,0 +1,83 @@
+:root {
+  color-scheme: light dark;
+  --border: #d0d0d0;
+  --accent: #2c6e49;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  margin: 0;
+  padding: 0 1rem 3rem;
+  max-width: 960px;
+  margin-inline: auto;
+}
+
+header {
+  padding: 2rem 0 1rem;
+}
+
+h1 {
+  margin: 0;
+}
+
+.subtitle {
+  color: #666;
+  margin: 0.25rem 0 0;
+}
+
+.week {
+  margin-top: 2rem;
+}
+
+.week h2 {
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 0.25rem;
+}
+
+.days {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.day {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.75rem;
+}
+
+.day h3 {
+  margin: 0 0 0.5rem;
+  text-transform: capitalize;
+}
+
+.meal {
+  margin: 0.25rem 0;
+}
+
+.meal .label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  color: #888;
+  display: block;
+}
+
+.meal .value {
+  font-weight: 500;
+}
+
+.meal .value:empty::after {
+  content: "TBD";
+  color: #aaa;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.loading, .error {
+  color: #888;
+}

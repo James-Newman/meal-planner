@@ -11,7 +11,7 @@
         "tuesday":   { "type": "family", "meal": "" },
         "wednesday": { "type": "split", "meals": { "kids": "Meal deal (shop-bought)", "adults": "" } },
         "thursday":  { "type": "split", "meals": { "kids": "Early tea", "adults": "Quick microwave meal" } },
-        "friday":    { "type": "family", "meal": "Quick pasta" },
+        "friday":    { "type": "family", "meal": "Pasta Bacon Cheese" },
         "saturday":  { "type": "family", "meal": "" },
         "sunday":    { "type": "family", "meal": "" }
       }
@@ -23,7 +23,7 @@
         "tuesday":   { "type": "family", "meal": "" },
         "wednesday": { "type": "split", "meals": { "kids": "Meal deal (shop-bought)", "adults": "" } },
         "thursday":  { "type": "split", "meals": { "kids": "Early tea", "adults": "Quick microwave meal" } },
-        "friday":    { "type": "family", "meal": "Quick pasta" },
+        "friday":    { "type": "family", "meal": "Spaghetti Meatballs" },
         "saturday":  { "type": "family", "meal": "" },
         "sunday":    { "type": "family", "meal": "" }
       }
@@ -35,7 +35,7 @@
         "tuesday":   { "type": "family", "meal": "" },
         "wednesday": { "type": "split", "meals": { "kids": "Meal deal (shop-bought)", "adults": "" } },
         "thursday":  { "type": "split", "meals": { "kids": "Early tea", "adults": "Quick microwave meal" } },
-        "friday":    { "type": "family", "meal": "Quick pasta" },
+        "friday":    { "type": "family", "meal": "Spaghetti Bolognese" },
         "saturday":  { "type": "family", "meal": "" },
         "sunday":    { "type": "family", "meal": "" }
       }
@@ -47,7 +47,7 @@
         "tuesday":   { "type": "family", "meal": "" },
         "wednesday": { "type": "split", "meals": { "kids": "Meal deal (shop-bought)", "adults": "" } },
         "thursday":  { "type": "split", "meals": { "kids": "Early tea", "adults": "Quick microwave meal" } },
-        "friday":    { "type": "family", "meal": "Quick pasta" },
+        "friday":    { "type": "family", "meal": "Cheesy Pasta" },
         "saturday":  { "type": "family", "meal": "" },
         "sunday":    { "type": "family", "meal": "" }
       }
